@@ -9,7 +9,7 @@ Kelas: 3B
 
 ## Tujuan
 
-Menulis program seleksi if, if-else, kondisi majemuk, dan nested if.
+Tujuan dari praktikum ini adalah untuk memahami konsep dasar struktur percabangan dalam pemrograman, khususnya penggunaan kondisi majemuk (multiple condition) dan nested if. Melalui praktikum ini, diharapkan dapat memahami bagaimana suatu program dapat mengambil keputusan berdasarkan satu atau beberapa kondisi yang telah ditentukan.
 
 ## Struktur Folder
 
