@@ -2,7 +2,9 @@
 # Pertemuan 03 Seleksi Python
 
 Nama: Muhamad nurul bayan
+
 NIM: 2225250115
+
 Kelas: 3B
 
 ## Tujuan
